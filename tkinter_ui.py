@@ -1,6 +1,6 @@
 from tkinter import *
 from tkinter import ttk
-from time import sleep
+
 from generate import Generator
 
 
