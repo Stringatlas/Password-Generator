@@ -1,4 +1,4 @@
 # Password-Generator
 Made with Python 3
 
-Click on tkinter_ui.py
+Open tkinter_ui.py and password generator should open.
