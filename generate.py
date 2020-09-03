@@ -53,7 +53,9 @@ class Generator:
 
 			
 			length = lengt // 26 if lengt > 26 else 0
-
+			
+			lengt = lengt - length * 26 if length >= 1 else lengt
+			
 			for _ in range(length):
 				password += Generator.alphabet
 
