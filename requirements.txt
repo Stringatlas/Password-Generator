@@ -1,1 +1,3 @@
-Python 3 and its default librarys.
+random
+string
+tkinter
