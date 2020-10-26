@@ -1,6 +1,6 @@
 import random
 import string
-import generate
+
 class Generator:
 	adjectives = ["red", "orange", "yellow", "green", "blue", "purple", "brown",
 	"sublime", "big", "small", "excellent", "splendid", "supreme", "impressive"]
